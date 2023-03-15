@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KvXW2pj+rmaEoGujim43bptcAqp8EiWKNxPi2FE3xjgcsLqHHSN/f3Gt8LPerDT+/YPx2FBFbIycFfmKBEi1EA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mateo_Urrego\\Documents\\PoCs\\EF\\EFCore31\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mateo_Urrego\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mateo_Urrego\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Mateo_Urrego\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
