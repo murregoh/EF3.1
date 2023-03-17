@@ -11,7 +11,7 @@ namespace SamuraiApp.Data
         public DbSet<Battle> Battles { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=tcp:muhserver.database.windows.net,1433;Initial Catalog=SamuraiDB;Persist Security Info=False;User ID=murregoh;Password=Dior0114;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+            optionsBuilder.UseSqlServer("{connectionString}");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
